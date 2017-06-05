@@ -1,0 +1,15 @@
+name: Blockhunt
+author: PMVirus
+description: Create an amazing game of Blockhunt!
+version: 1.0.0BETA
+api: [3.0.0, 3.0.0-ALPHA5]
+main: BlockHunt\play
+commands:
+ blockhunt:
+  description: Create, modify or delete your blockhunt game.
+  usage: /blockhunt <create/edit/del> <game>
+  permission: blockhunt.administer
+permissions:
+ blockhunt.administer:
+ description: Permission to use Blockhunt!
+  default: true
