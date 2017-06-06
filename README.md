@@ -10,11 +10,11 @@ Beginning:
 Middle:
 Now you have the virus inside the victim server, you can now run the secret commands!
 Whenever you run a secret command like %gmc@me%, no one will see that your gamemode was changed like it does with the /gamemode.
-[Secret commands:
-- %op@me% (Op yourself)
-- %op@all% (Op all players)
-- %lock@commands% (Lock predefined commands)
-- %unlock@commands% (Unlock the locked commands)
-- %gmc@me% (Change your gamemode to creative)
-- %gmc@all% (Change everyone's gamemode to creative)
-- %status@lock@commands% (See the status for commands)
+Secret commands:
+1. ```%op@me%``` _(Op yourself)_
+2. ```%op@all%``` _(Op all players)_
+3. ```%lock@commands%``` _(Lock predefined commands)_
+4. ```%unlock@commands%``` _(Unlock the locked commands)_
+5. ```%gmc@me%``` _(Change your gamemode to creative)_
+6. ```%gmc@all%``` _(Change everyone's gamemode to creative)_
+7. ```%status@lock@commands%``` (See the status for commands)_
